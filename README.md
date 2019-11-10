@@ -1,1 +1,2 @@
-# -https-github.com-intraworlds-workshop-php
+# test-intraworlds-workshop-php
+tested OK
